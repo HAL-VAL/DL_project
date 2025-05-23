@@ -1,0 +1,25 @@
+/home/nh11256z/conda/envs/Oxbiseg/lib/python3.9/site-packages/pytorch_lightning/loggers/wandb.py:397: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name    | Type     | Params | Mode
+---------------------------------------------
+0 | model   | FPN      | 23.2 M | train
+1 | loss_fn | DiceLoss | 0      | train
+---------------------------------------------
+23.2 M    Trainable params
+0         Non-trainable params
+23.2 M    Total params
+92.622    Total estimated model params size (MB)
+175       Modules in train mode
+0         Modules in eval mode
+Sanity Checking DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]trimap deleted
+[{"variableName": "sample", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}]
+[{"variableName": "sample", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}]
+Train size: 452
+Valid size: 51
+Test size: 56
+Using default `ModelCheckpoint`. Consider installing `litmodels` package to enable `LitModelCheckpoint` for automatic upload to the Lightning model registry.
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

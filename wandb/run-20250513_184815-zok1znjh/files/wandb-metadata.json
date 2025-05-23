@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-6.8.0-59-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-05-13T16:48:16.565351Z",
+  "program":  "/home/nh11256z/DeepLearning/Gray/Binary_segmentation_intro.ipynb",
+  "codePath":  "Binary_segmentation_intro.ipynb",
+  "email":  "nagao.haruka.nq@tut.jp",
+  "root":  "/home/nh11256z/DeepLearning/Gray",
+  "host":  "vm-2b",
+  "executable":  "/home/nh11256z/conda/envs/Oxbiseg/bin/python",
+  "codePathLocal":  "Binary_segmentation_intro.ipynb",
+  "cpu_count":  16,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA A40-16C",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "265147105280",
+      "used":  "264022499328"
+    }
+  },
+  "memory":  {
+    "total":  "33652133888"
+  },
+  "cpu":  {
+    "count":  16,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA A40-16C",
+      "memoryTotal":  "17179869184",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}

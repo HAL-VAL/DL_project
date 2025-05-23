@@ -1,0 +1,16 @@
+{"time":"2025-05-13T18:50:30.944580054+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/nh11256z/DeepLearning/Gray/wandb/run-20250513_185029-ikwrmepd/logs/debug-core.log"}
+{"time":"2025-05-13T18:50:31.215449509+02:00","level":"INFO","msg":"created new stream","id":"ikwrmepd"}
+{"time":"2025-05-13T18:50:31.215492469+02:00","level":"INFO","msg":"stream: started","id":"ikwrmepd"}
+{"time":"2025-05-13T18:50:31.215545648+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T18:50:31.21558971+02:00","level":"INFO","msg":"handler: started","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T18:50:31.21556297+02:00","level":"INFO","msg":"sender: started","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T18:50:31.447062751+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T19:08:07.50397076+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T19:08:07.504069314+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T19:08:08.282170656+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-13T19:08:08.512407217+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 0-3","runtime_seconds":0.23006358}],"total_operations":1}}
+{"time":"2025-05-13T19:08:08.553945748+02:00","level":"INFO","msg":"stream: closing","id":"ikwrmepd"}
+{"time":"2025-05-13T19:08:08.553997975+02:00","level":"INFO","msg":"handler: closed","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T19:08:08.55401688+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T19:08:08.554068566+02:00","level":"INFO","msg":"sender: closed","stream_id":"ikwrmepd"}
+{"time":"2025-05-13T19:08:08.554177809+02:00","level":"INFO","msg":"stream: closed","id":"ikwrmepd"}

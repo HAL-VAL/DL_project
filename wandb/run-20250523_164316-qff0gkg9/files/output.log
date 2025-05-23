@@ -1,0 +1,20 @@
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name    | Type     | Params | Mode
+--------------------------------------------
+0 | model   | FPN      | 23.2 M | eval
+1 | loss_fn | DiceLoss | 0      | eval
+--------------------------------------------
+23.2 M    Trainable params
+0         Non-trainable params
+23.2 M    Total params
+92.622    Total estimated model params size (MB)
+0         Modules in train mode
+175       Modules in eval mode
+trimap deleted                                                     
+mask max: tensor(1., device='cuda:0')
+mask min: tensor(0., device='cuda:0')
+Epoch 0:   0%|          | 0/8 [00:00<?, ?it/s] trimap deleted
+mask max: tensor(1., device='cuda:0')
+mask min: tensor(0., device='cuda:0')
+[{"variableName": "data", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "df_illum", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "gray_mask", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "illuminants", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "names", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "sample", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}]

@@ -1,0 +1,41 @@
+{"time":"2025-05-13T18:48:16.603583392+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/nh11256z/DeepLearning/Gray/wandb/run-20250513_184815-zok1znjh/logs/debug-core.log"}
+{"time":"2025-05-13T18:48:16.877621283+02:00","level":"INFO","msg":"created new stream","id":"zok1znjh"}
+{"time":"2025-05-13T18:48:16.877680293+02:00","level":"INFO","msg":"stream: started","id":"zok1znjh"}
+{"time":"2025-05-13T18:48:16.877716891+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:48:16.877766915+02:00","level":"INFO","msg":"sender: started","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:48:16.877799555+02:00","level":"INFO","msg":"handler: started","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:48:17.167211074+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T18:48:19.990961296+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:48:28.085558214+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:48:29.784666245+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:48:29.787377895+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:48:29.818316207+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:48:29.826617215+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:48:36.986556139+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:48:36.990222106+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:48:37.020514525+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:48:37.030688781+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:49:45.557232403+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:49:45.598149608+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:49:49.575138421+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:04.330250066+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:06.688101792+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:06.697116258+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:11.987105379+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:13.435443254+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:17.824057866+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:17.865080309+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:20.125003311+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:20.1322574+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:27.754265503+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:27.794403408+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T18:50:29.771982426+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T18:50:29.788586776+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T18:50:29.788636119+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T18:50:30.622854044+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-13T18:50:30.794585834+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 20-24","runtime_seconds":0.17153279}],"total_operations":1}}
+{"time":"2025-05-13T18:50:30.903875594+02:00","level":"INFO","msg":"stream: closing","id":"zok1znjh"}
+{"time":"2025-05-13T18:50:30.903962085+02:00","level":"INFO","msg":"handler: closed","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:50:30.903986411+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:50:30.904015544+02:00","level":"INFO","msg":"sender: closed","stream_id":"zok1znjh"}
+{"time":"2025-05-13T18:50:30.90414698+02:00","level":"INFO","msg":"stream: closed","id":"zok1znjh"}

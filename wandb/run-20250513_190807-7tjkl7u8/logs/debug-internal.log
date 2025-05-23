@@ -1,0 +1,36 @@
+{"time":"2025-05-13T19:08:08.594562389+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/nh11256z/DeepLearning/Gray/wandb/run-20250513_190807-7tjkl7u8/logs/debug-core.log"}
+{"time":"2025-05-13T19:08:08.867561691+02:00","level":"INFO","msg":"created new stream","id":"7tjkl7u8"}
+{"time":"2025-05-13T19:08:08.867623727+02:00","level":"INFO","msg":"stream: started","id":"7tjkl7u8"}
+{"time":"2025-05-13T19:08:08.868356051+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"7tjkl7u8"}
+{"time":"2025-05-13T19:08:08.868413127+02:00","level":"INFO","msg":"handler: started","stream_id":"7tjkl7u8"}
+{"time":"2025-05-13T19:08:08.868442081+02:00","level":"INFO","msg":"sender: started","stream_id":"7tjkl7u8"}
+{"time":"2025-05-13T19:08:09.127782395+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T19:08:12.455525046+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:08:20.621263669+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:14.828484959+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:14.87326223+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:22.157462211+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:22.198175413+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:29.190633816+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:30.520720981+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:35.883266256+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:35.946715071+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:41.130160177+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:41.169397301+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:42.31899525+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:42.337043171+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:11:49.368642754+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:11:49.411591099+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:14:12.448939753+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:14:12.489104785+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T19:14:12.492397116+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T19:14:12.501996794+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T20:32:39.750816911+02:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/nagao-haruka-nq/test_Gray-segmentation/7tjkl7u8/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-05-13T21:29:00.872624479+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T21:29:00.913278852+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T21:29:00.988737834+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T21:29:00.999863514+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T21:29:39.352645273+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T21:29:39.393169915+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-13T21:29:39.405647452+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-13T21:29:39.416940084+02:00","level":"INFO","msg":"Resuming system monitor"}

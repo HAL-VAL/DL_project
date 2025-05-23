@@ -1,0 +1,39 @@
+/home/nh11256z/conda/envs/Oxbiseg/lib/python3.9/site-packages/pytorch_lightning/loggers/wandb.py:397: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name    | Type     | Params | Mode
+---------------------------------------------
+0 | model   | FPN      | 23.2 M | train
+1 | loss_fn | DiceLoss | 0      | train
+---------------------------------------------
+23.2 M    Trainable params
+0         Non-trainable params
+23.2 M    Total params
+92.622    Total estimated model params size (MB)
+175       Modules in train mode
+0         Modules in eval mode
+Sanity Checking DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]trimap deleted
+mask max: tensor(1., device='cuda:0')
+mask min: tensor(0., device='cuda:0')
+Epoch 0:   0%|          | 0/8 [00:00<?, ?it/s] trimap deleted              
+mask max: tensor(1., device='cuda:0')
+mask min: tensor(0., device='cuda:0')
+[{"variableName": "data", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "df_illum", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "gray_mask", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "illuminants", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "names", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "sample", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name    | Type     | Params | Mode
+---------------------------------------------
+0 | model   | FPN      | 23.2 M | train
+1 | loss_fn | DiceLoss | 0      | train
+---------------------------------------------
+23.2 M    Trainable params
+0         Non-trainable params
+23.2 M    Total params
+92.622    Total estimated model params size (MB)
+175       Modules in train mode
+0         Modules in eval mode
+Epoch 0:   0%|          | 0/8 [02:56<?, ?it/s]t/s]
+Sanity Checking DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]trimap deleted
+mask max: tensor(1., device='cuda:0')
+mask min: tensor(0., device='cuda:0')
+[{"variableName": "data", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "df_illum", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "gray_mask", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "illuminants", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "names", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "sample", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}]
